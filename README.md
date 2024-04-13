@@ -12,9 +12,6 @@ To use the clock, simply open the `index.html` file in a web browser.
 - `index.css`: Contains the CSS styles for the clock.
 - `index.js`: Contains the JavaScript code to make the clock functional.
 
-## Preview
-
-![Clock Preview](clock_preview.png)
 
 ## Implementation Details
 
